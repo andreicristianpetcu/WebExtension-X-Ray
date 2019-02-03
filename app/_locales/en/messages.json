@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "WebExtension X-Ray",
+    "description": "The name of the application"
+  },
+  "appShortName": {
+    "message": "WebExtXRay",
+    "description": "The short_name (maximum of 12 characters recommended) is a short version of the app's name."
+  },
+  "appDescription": {
+    "message": "It redirects the addons.mozilla.org page to robwu.nl where it shows the extension code.",
+    "description": "The description of the application"
+  }
+}
